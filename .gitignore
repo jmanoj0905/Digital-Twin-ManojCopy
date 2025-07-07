@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+
+# VSCode and IDEs
+.vscode/
+.idea/
+
+# Others
+frontend/.git
