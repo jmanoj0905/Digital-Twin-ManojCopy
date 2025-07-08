@@ -14,3 +14,4 @@ env/
 
 # Others
 frontend/.git
+.env
